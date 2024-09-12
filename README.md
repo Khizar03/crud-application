@@ -1,2 +1,2 @@
-# crud-application
-crud application using node, express and mySQL
+# basic-crud-app
+crud application using node, express and postgresSQL
